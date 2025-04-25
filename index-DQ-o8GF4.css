@@ -504,7 +504,7 @@
   }
 }
 
-.sfera_three_cover[data-v-9d697028] {
+.sfera_three_cover[data-v-705ac807] {
   display: flex;
   justify-content: center;
   width: 100%;
@@ -516,7 +516,7 @@
   overflow: hidden
 }
 
-.sfera_wrapper[data-v-9d697028] {
+.sfera_wrapper[data-v-705ac807] {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -525,7 +525,7 @@
   height: 356px
 }
 
-.sfera[data-v-9d697028] {
+.sfera[data-v-705ac807] {
   width: 660px;
   height: 660px;
   position: absolute;
@@ -538,11 +538,11 @@
   background: url(planeta_intreaga-Bqz0di_N.jpg) #131313 50% -56px / 86% 63% no-repeat
 }
 
-.sfera_umbra[data-v-9d697028] {
+.sfera_umbra[data-v-705ac807] {
   box-shadow: 0 4px 4px #fff inset
 }
 
-.zborul_1_positionare[data-v-9d697028] {
+.zborul_1_positionare[data-v-705ac807] {
   position: absolute;
   top: 17%;
   left: 50%;
@@ -931,7 +931,7 @@
   align-self: stretch
 }
 
-.bottom_nav[data-v-129981ea] {
+.bottom_nav[data-v-45b54ec2] {
   display: flex;
   width: 100%;
   padding: 4px;
@@ -949,13 +949,13 @@
   box-sizing: border-box
 }
 
-.button_nav_container[data-v-129981ea] {
+.button_nav_container[data-v-45b54ec2] {
   display: flex;
   align-items: center;
   flex: 1 0 0
 }
 
-.button_nav_container_element[data-v-129981ea] {
+.button_nav_container_element[data-v-45b54ec2] {
   display: flex;
   padding: 8px 0;
   flex-direction: column;
