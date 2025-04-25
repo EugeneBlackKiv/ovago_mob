@@ -504,19 +504,19 @@
   }
 }
 
-.sfera_three_cover[data-v-f1a7f14b] {
+.sfera_three_cover[data-v-add62e0a] {
   display: flex;
   justify-content: center;
   width: 100%;
   height: 656px;
   position: absolute;
-  top: 58vh;
+  top: 54%;
   left: 50%;
   transform: translate(-50%);
   overflow: hidden
 }
 
-.sfera_wrapper[data-v-f1a7f14b] {
+.sfera_wrapper[data-v-add62e0a] {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -525,7 +525,7 @@
   height: 356px
 }
 
-.sfera[data-v-f1a7f14b] {
+.sfera[data-v-add62e0a] {
   width: 660px;
   height: 660px;
   position: absolute;
@@ -538,11 +538,11 @@
   background: url(planeta_intreaga-Bqz0di_N.jpg) #131313 50% -56px / 86% 63% no-repeat
 }
 
-.sfera_umbra[data-v-f1a7f14b] {
+.sfera_umbra[data-v-add62e0a] {
   box-shadow: 0 4px 4px #fff inset
 }
 
-.zborul_1_positionare[data-v-f1a7f14b] {
+.zborul_1_positionare[data-v-add62e0a] {
   position: absolute;
   top: 17%;
   left: 50%;
@@ -853,14 +853,14 @@
   transform: translate(-50%, -50%)
 }
 
-.recent_search_component[data-v-fcf8b0f2] {
+.recent_search_component[data-v-9b1225d9] {
   display: flex;
   position: relative;
   flex-direction: column;
   z-index: 2
 }
 
-.card_group[data-v-fcf8b0f2] {
+.card_group[data-v-9b1225d9] {
   overflow-x: auto;
   flex-shrink: 0;
   display: flex;
@@ -872,7 +872,7 @@
   scrollbar-width: none
 }
 
-.titlu_recent[data-v-fcf8b0f2] {
+.titlu_recent[data-v-9b1225d9] {
   color: #fff;
   text-align: center;
   font-family: Jost;
@@ -882,7 +882,7 @@
   line-height: 32px
 }
 
-.card_component[data-v-fcf8b0f2] {
+.card_component[data-v-9b1225d9] {
   display: flex;
   padding: 24px;
   justify-content: center;
@@ -897,12 +897,12 @@
   transition: all .4s cubic-bezier(.3, 0, 0, 1)
 }
 
-.card_component[data-v-fcf8b0f2]:hover {
+.card_component[data-v-9b1225d9]:hover {
   background: #c7bfff29;
   transform: translateY(-12px)
 }
 
-.info_card[data-v-fcf8b0f2] {
+.info_card[data-v-9b1225d9] {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -910,7 +910,7 @@
   gap: 8px
 }
 
-.info_card_title[data-v-fcf8b0f2] {
+.info_card_title[data-v-9b1225d9] {
   color: #fff;
   font-family: Jost;
   font-size: 18px;
@@ -921,7 +921,7 @@
   white-space: none
 }
 
-.info_card_body[data-v-fcf8b0f2] {
+.info_card_body[data-v-9b1225d9] {
   color: #ffffffa3;
   font-family: Jost;
   font-size: 14px;
